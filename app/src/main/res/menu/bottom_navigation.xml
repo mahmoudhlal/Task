@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Nav_profile"
+        android:icon="@mipmap/ic_profile_nav"
+        android:title="حسابي"
+        />
+    <item
+        android:id="@+id/Nav_market"
+        android:icon="@mipmap/ic_market_nav"
+        android:title="المتاجر"
+        />
+    <item
+        android:id="@+id/Nav_buy"
+        android:icon="@mipmap/ic_order_nav"
+        android:title="طلباتى"
+        />
+
+</menu>
